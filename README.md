@@ -56,13 +56,13 @@ This project analyzes customer churn behavior across ~7,000 telecom customers to
 6. **Traditional Billing Offer** — Give Paperless Billing customers the option to switch back to paper billing to improve engagement.
 
 ## 📊 Dashboard Preview
-
+![Overview](screenshots/page_1.png)
 
 ## 📁 Repository Structure
 
 ```
-├── data/               # Raw and cleaned dataset
-├── dashboard/          # Excel file with full dashboard
+├── WA_Fn-UseC_-Telco-Customer-Churn/               # Raw dataset
+├── teleco_customer_churn_analysis/          # Excel file with full dashboard
 ├── screenshots/        # Dashboard page previews
 └── README.md
 ```
